@@ -1,6 +1,6 @@
 # A collection of GIS tools.
 
-I have recently realized I have a collection of tools I have written or edited/combioned from online resources for use in my research. I am working on getting all of those codes cleaned up and uploaded here. 
+I have recently realized I have a collection of tools I have written or edited/combined from online resources for use in my research. I am working on getting all of those codes cleaned up and uploaded here. 
 
 Hopefully they are of help. 
 
