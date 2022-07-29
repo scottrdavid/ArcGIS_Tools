@@ -7,11 +7,8 @@ Hopefully they are of help.
 If you have questions you can find my contact info on my research website www.scottrdavid.com
 
 
-## I wll update with a handfull of tools soon:
+## I will update with a handful of tools soon:
 List of things to include:
-3-4 detrending methods (& a matlab based one I need to convert to python one using gaussian filters), centerline extraction tools,
-line discritization tool---a simple version --a better version of this code for river attribution will be released in a differnt toolkit.
-
-And whatever else I find digging through old hard drives...
+3-4 detrending methods (& a matlab based one using Gaussian filters I need to convert to python), centerline extraction tools, a line discretization tool---a simple version --a better version of this code for river attribution will be released in a different toolkit. And whatever else I find digging through old hard drives...
 
 
